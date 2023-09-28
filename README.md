@@ -1,4 +1,4 @@
-# Task_Manager_2.0
+## Task_Manager_2.0
 
 Hello! I'm **Piotrek Szkopiak** and this is my training project to improve my skills for `Python` programming language.
 
